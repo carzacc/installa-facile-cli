@@ -1,6 +1,0 @@
-setup.py
-bin/ita
-installa-facile/installa_facile_cli.egg-info/PKG-INFO
-installa-facile/installa_facile_cli.egg-info/SOURCES.txt
-installa-facile/installa_facile_cli.egg-info/dependency_links.txt
-installa-facile/installa_facile_cli.egg-info/top_level.txt
